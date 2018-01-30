@@ -5,6 +5,7 @@
 [![Releases](https://img.shields.io/github/release/openebs/openebs/all.svg?style=flat-square)](https://github.com/openebs/openebs/releases)
 [![Slack](https://img.shields.io/badge/chat!!!-slack-ff1493.svg?style=flat-square)]( https://openebsslacksignup.herokuapp.com/)
 [![Twitter](https://img.shields.io/twitter/follow/openebs.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=openebs)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmuratkars%2Fopenebs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmuratkars%2Fopenebs?ref=badge_shield)
 
 http://www.openebs.io/
  
@@ -74,3 +75,6 @@ Please start with the pinned repositories or with [OpenEBS Architecture](./contr
 OpenEBS is developed under Apache 2.0 License at the project level. 
 Some components of the project are derived from other opensource projects like Nomad, Longhorn 
 and are distributed under their respective licenses. 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmuratkars%2Fopenebs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmuratkars%2Fopenebs?ref=badge_large)
